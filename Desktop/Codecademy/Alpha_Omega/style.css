@@ -1,0 +1,19 @@
+html, body {
+    font-family: 'Verdana', sans-serif;
+    font-weight: 100;
+    background-color: #e0eee0;
+    }
+
+  #photos h1, #intro h1, #next h1{
+    background-color: maroon;
+    color: khaki;
+}
+
+#boxed{
+  border: 10px cyan;
+  margin: 10px auto 10px auto;
+  padding: 15px;
+  height: 150px;
+  background-color: khaki;
+  width: 300px;
+}
